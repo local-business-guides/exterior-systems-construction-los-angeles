@@ -24,6 +24,9 @@
 - [Service establishment Los Angeles for Exterior Repairs](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/service-establishment-los-angeles/): Service establishment Los Angeles homeowners can contact for leak assessment and exterior repair planning. Call Exterior Systems Construction in Los Angeles.
 - [Water Intrusion Testing in Los Angeles](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/water-intrusion-testing-in-los-angeles/): Water intrusion testing in Los Angeles helps investigate leaks before repair choices are made. Discuss your property and next steps with our team today.
 
+## Newsroom
+- [Exterior Systems Construction Shares Water Intrusion Testing Resources in Los Angeles](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/news/2026-11-06-exterior-systems-construction-shares-water/): A new guide, YouTube video and podcast episode explain water intrusion testing for Los Angeles property owners and managers. (2026-11-06)
+
 ## Pages
 - [Water Intrusion Testing in Los Angeles, California](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/): We test and assess exterior moisture concerns so Los Angeles property owners can plan repairs around clearer information. Call +1323-206-6181.
 - [About and Contact Exterior Systems Construction](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/about/): About Exterior Systems Construction, Los Angeles.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/exterior-systems-construction-los-angeles/news/rss.xml)
 - [Main resource site](https://exterior-systems-construction-la.localbusinesses1.chatgpt.site)

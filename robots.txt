@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/exterior-systems-construction-los-angeles/sitemap.xml
+Sitemap: https://local-business-guides.github.io/exterior-systems-construction-los-angeles/news-sitemap.xml
